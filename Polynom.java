@@ -303,6 +303,10 @@ public class Polynom implements Polynom_able{
 		ans = ans + "]";
 		return ans.replaceAll("\\+-", "-");
 	}
+	/**@param String str
+	 
+	 *@return a Polynom  
+	 */
 	public Polynom (String str){
 		this.Poly = new ArrayList<>();
 		str.toLowerCase();

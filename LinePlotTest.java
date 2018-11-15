@@ -11,6 +11,8 @@ import de.erichseifert.gral.ui.InteractivePanel;
 public class LinePlotTest extends JFrame {
     /**
 	 * Tomer and Ortal
+	 * 
+	 * Erich Seifert github https://github.com/eseifert/gral/wiki
 	 */
 	private static final long serialVersionUID = 1L;
 

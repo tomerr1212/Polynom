@@ -53,7 +53,10 @@ public class Monom implements function{
 		}
 		return true;
 	}
-
+	/**@param String str
+	 
+	 *@return a Monom  
+	 */
 	public String toString() {
 		if(this._power == 0) {
 			return this._coefficient +" ";
